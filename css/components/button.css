@@ -1,0 +1,18 @@
+.btn-blue{
+	background-color: blue;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.btn-album{
+	background-color: #94ebcd;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Montserrat', sans-serif;
+	margin-left: 19px;
+}
